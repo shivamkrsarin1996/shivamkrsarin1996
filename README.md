@@ -4,4 +4,4 @@ I am a Software Developer. I like involving in various parts of software develop
 <br/>LinkedIn - https://www.linkedin.com/in/shivam-sareen/
 <br/>Email - shivamkrsarin1966@gmail.com || shivamkumar.sareen@mavs.uta.edu
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamkrsarin1996&hide=prs,issues&show_icons=true&theme=highcontrast)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamkrsarin1996&hide=prs,issues&show_icons=true&theme=blue-green)
