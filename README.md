@@ -2,7 +2,7 @@ I am a Software Developer. I like involving in various parts of software develop
 <br/> Check out my work on - https://shivam-sareen.netlify.app/
 <br/>Or feel free to reach out to me on - 
 <br/>LinkedIn - https://www.linkedin.com/in/shivam-sareen/
-<br/>Email - shivamkrsarin1966@gmail.com || shivamkumar.sareen@mavs.uta.edu
+<br/>Email - shivamkrsarin1966@gmail.com 
 
 ### 📫 Get in touch with me:
 
