@@ -1,4 +1,7 @@
-I am a Software Developer. I like involving in various parts of software development life cycle and love to combine my passion for learning and adapting to new skills with my software development skills to continue building personalized learning products for people which can be used to solve real-life problems to make people's life simpler with the help of technology.
+I am a Software Developer. I like involving in various parts of the software development life cycle and love to combine my passion for learning and adapting to new skills with my software development skills to continue building personalized learning products for people that can be used to solve real-life problems to make people's life simpler with the help of technology.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkrsarin1996&label=Profile%20views&color=0e75b6&style=flat" alt="krishnavalliappan" /> </p>
+
 <br/> Check out my work on - https://shivam-sareen.com
 <br/>Or feel free to reach out to me on - 
 <br/>LinkedIn - https://www.linkedin.com/in/shivam-sareen/
