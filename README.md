@@ -1,6 +1,6 @@
 I am a Software Developer. I like involving in various parts of the software development life cycle and love to combine my passion for learning and adapting to new skills with my software development skills to continue building personalized learning products for people that can be used to solve real-life problems to make people's life simpler with the help of technology.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkrsarin1996&label=Profile%20views&color=0e75b6&style=flat" alt="krishnavalliappan" /> </p>
+
 
 <br/> Check out my work on - https://shivam-sareen.com
 <br/>Or feel free to reach out to me on - 
@@ -12,3 +12,5 @@ I am a Software Developer. I like involving in various parts of the software dev
 <p><a href="https://www.linkedin.com/in/shivam-sareen/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png"></a></p>
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamkrsarin1996&hide=prs,issues&show_icons=true&theme=blue-green)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkrsarin1996&label=Profile%20views&color=0e75b6&style=flat" alt="krishnavalliappan" /> </p>
